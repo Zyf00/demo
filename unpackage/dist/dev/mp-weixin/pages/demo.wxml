@@ -1,0 +1,1 @@
+<view>dome</view><uni-badge wx:if="{{a}}" u-i="4d16a390-0" bind:__l="__l" u-p="{{a}}"></uni-badge><sub-box class="r" u-r="subBoxRef" u-i="4d16a390-1" bind:__l="__l"></sub-box><view bindtap="{{c}}">btn</view>

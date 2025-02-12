@@ -4,6 +4,7 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		<navigator url="/pages/demo">demo</navigator>
 	</view>
 </template>
 
